@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\djalm\\.nuget\\packages\\": {}
+    "C:\\Users\\Djalma Henrique\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\djalm\\Desktop\\Code\\C#\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "D:\\Dados AT\\Code\\C#\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\Users\\djalm\\Desktop\\Code\\C#\\Calculadora\\Calculadora.csproj",
-      "packagesPath": "C:\\Users\\djalm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\djalm\\Desktop\\Code\\C#\\Calculadora\\obj\\",
+      "projectPath": "D:\\Dados AT\\Code\\C#\\Calculadora\\Calculadora.csproj",
+      "packagesPath": "C:\\Users\\Djalma Henrique\\.nuget\\packages\\",
+      "outputPath": "D:\\Dados AT\\Code\\C#\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\djalm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Djalma Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
