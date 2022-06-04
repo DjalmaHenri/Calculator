@@ -30,6 +30,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             Resolvertoswitch(funcion);
 
+            Console.WriteLine("YEah");
+
         }
         static string Resolvertoswitch(string opcion)
         {
