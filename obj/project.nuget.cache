@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eoaFjIFZheognlF1+HtKIbY6w7bHXTV3WVNkZYpCpI9kEhROB1DltHQCmGjtyY+d8SVVpp2pOhb/tMuaVylxpw==",
+  "dgSpecHash": "P9SWat/jCgsMOSiIuazu0Ir5jJ4oZ69pjrWb/cJIZqFDntrRP9+4ebpDQvFU+vvY/3rMV92/smaed9W2gUYsSg==",
   "success": true,
-  "projectFilePath": "D:\\Dados AT\\Code\\C#\\Calculadora\\Calculadora.csproj",
+  "projectFilePath": "C:\\Users\\djalm\\Desktop\\Code\\Calculator\\Calculadora.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

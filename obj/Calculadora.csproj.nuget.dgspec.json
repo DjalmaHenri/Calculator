@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dados AT\\Code\\C#\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\djalm\\Desktop\\Code\\Calculator\\Calculadora.csproj": {}
   },
   "projects": {
-    "D:\\Dados AT\\Code\\C#\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\djalm\\Desktop\\Code\\Calculator\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dados AT\\Code\\C#\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\djalm\\Desktop\\Code\\Calculator\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "D:\\Dados AT\\Code\\C#\\Calculadora\\Calculadora.csproj",
-        "packagesPath": "C:\\Users\\Djalma Henrique\\.nuget\\packages\\",
-        "outputPath": "D:\\Dados AT\\Code\\C#\\Calculadora\\obj\\",
+        "projectPath": "C:\\Users\\djalm\\Desktop\\Code\\Calculator\\Calculadora.csproj",
+        "packagesPath": "C:\\Users\\djalm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\djalm\\Desktop\\Code\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Djalma Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\djalm\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

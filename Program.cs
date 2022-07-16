@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace MyCalculator
 {
     internal class Program
     {
@@ -29,8 +29,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
             number2 = int.Parse(Console.ReadLine());
 
             Resolvertoswitch(funcion);
-
-            Console.WriteLine("YEah baby");
 
         }
         static string Resolvertoswitch(string opcion)
