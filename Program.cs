@@ -4,7 +4,7 @@ namespace MyCalculator
 {
     internal class Program
     {
-    static int number1 = 0;
+        static int number1 = 0;
         static int number2 = 0;
         static string funcion = "";
 
