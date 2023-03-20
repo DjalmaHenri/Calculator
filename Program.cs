@@ -10,7 +10,7 @@ namespace MyCalculator
 
         public static void Main(string[] args)
         {
-            Console.Clear();
+           Console.Clear();
 
             string nomeUser = "";
 
@@ -18,6 +18,11 @@ namespace MyCalculator
             nomeUser = Console.ReadLine();
 
             Console.WriteLine($"Hello {nomeUser}!");
+            
+            Console.WriteLine($"You are okay?");
+            Console.Readline();
+
+            Console.WriteLine("Oh, that's fine! or not. Hahaha");
 
             Console.WriteLine("Choose the first number:");
             number1 = int.Parse(Console.ReadLine());
